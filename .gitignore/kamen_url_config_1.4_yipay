@@ -9,4 +9,8 @@
 "pictrueKeyFlag":".gif\"",
 "nopesUrl":"\/htm\/novellist9\/",
 "morePictureFlag":"<p><span>",
-"jpgFlag":".jpg\""}
+"nopesFlag":"<\/li>",
+"voiceFlag":"<\/li>",
+"jpgFlag":".jpg\"",
+"configChangeTIme":1
+}
