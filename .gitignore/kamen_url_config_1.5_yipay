@@ -1,1 +1,17 @@
-2
+
+{"urlHead":"https:\/\/www.eee554.com",
+"movieHead":"http:\/\/m.123456xia.com:888",
+"mainURL":"\/htm\/index.htm",
+"hrefStart":"<a href=\"",
+"hrefEnd":"\"",
+"playMovieUrl":"\/htm\/movielist2\/",
+"movieFlag":"<\/span>热播电影<\/p>",
+"pictureUrl":"\/htm\/girl.htm",
+"pictrueKeyFlag":".gif\"",
+"nopesUrl":"\/htm\/novellist9\/",
+"morePictureFlag":"<p><span>",
+"nopesFlag":"<\/li>",
+"voiceFlag":"<\/li>",
+"jpgFlag":".jpg\"",
+"configChangeTIme":5
+}
