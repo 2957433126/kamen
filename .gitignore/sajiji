@@ -1,1 +1,1 @@
-{"create":"sshttp://13.251.77.236:1680/pay/merchant/createOrder","query":"http://13.251.77.236:1680/pay/merchant/queryOrder"}
+{"create":"http://13.251.77.236:1680/pay/merchant/createOrder","query":"http://13.251.77.236:1680/pay/merchant/queryOrder"}
